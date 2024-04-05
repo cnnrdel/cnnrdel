@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about/ practicing Agile and SCRUM
 - :house: I was born and raised in Baltimore, MD
 
-##### In my freetime I enjoy...
+#### In my freetime I enjoy...
 - :open_book: reading
 - :paintbrush: 	drawing & painting
 - :green_book: journaling
