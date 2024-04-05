@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - :paintbrush: 	drawing & painting
 - :green_book: journaling
 - :framed_picture: visiting museums
+- :potted_plant: taking care of plants
 
 
 ### :keyboard: Languages
@@ -40,4 +41,6 @@ ___
 ___
 
 [![Gmail Icon](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cnnrdeleon@gmail.com)
+
+[:memo: CV](https://read.cv/cnr)
 
