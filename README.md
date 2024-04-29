@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ***
 - :school: I'm a computer science student studying at NYU with a minor in web development
 - 🔭 I’m currently working on a web app for keeping track of books you've read and want to read
-- 🌱 I’m currently learning about/ practicing Agile and SCRUM
+- 🌱 I’m currently learning about/ practicing Agile, SCRUM, & LAMP
 - :house: I was born and raised in Baltimore, MD
 
 #### In my freetime I enjoy...
