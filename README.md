@@ -1,4 +1,4 @@
-# Hi there, I'm Connor 👋
+# HEY WHAT'S UP HELLO, I'm Connor 👋
 
 <!--
 **cnnrdel/cnnrdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
